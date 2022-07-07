@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    resize: both;
+}
+
+ul {
+    list-style: none;
+    width: 50%;
+    margin: auto;
+}
+
+h4 {
+    text-decoration: underline;
+    font-size: 34px;
+}
+
+li {
+    display: inline;
+    margin-left: -5%;
+}
+
+.move_far {
+    margin-left: 10%;
+}
+
+footer {
+    text-align: center;
+    width: 90%;
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 5%;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    width: 65px;
+}
